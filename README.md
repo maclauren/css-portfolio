@@ -1,11 +1,14 @@
 # css-portfolio
 A portfolio containing flexbox, media queries, and CSS variables
 
-Added 'a href' to navigation for About, Work, Contact Me and Resume
-Added structure to 'About', 'Work', 'Contact'
-Added contact and social media details
+1. Added 'a href' to navigation for About, Work, Contact Me and Resume
 
-Added to CSS:
+2. Added structure to 'About', 'Work', 'Contact'
+
+3. Added contact and social media details
+
+4. Added to CSS:
+
 Header
 Header h1
 nav 
@@ -35,3 +38,5 @@ main
 .project3
 .project4
 .project5
+
+5. Customised with my own details and images. Made adjustments to paragraph margin (as text was too close to line) and background image so the image was centered and covered.

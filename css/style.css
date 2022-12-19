@@ -139,9 +139,10 @@ main {
 
 .page-section > div {
   flex: 0 0 77%;
+  margin-left: 10px;
 }
 
-.page section p {
+.page-section p {
   margin-bottom: 20px;
 }
 
@@ -210,23 +211,33 @@ main {
 }
 
 .project1 {
-  background-image: url("../images/02-portfolio-4.jpg");
+  background-image: url("../images/project1-html.jpeg");
+  background-position: center;
+  background-size: cover;
 }
 
 .project2 {
-  background-image: url("../images/02-portfolio-1.jpg");
+  background-image: url("../images/project2-css.png");
+  background-position: center;
+  background-size: cover;
 }
 
 .project3 {
-  background-image: url("../images/02-portfolio-2.jpg");
+  background-image: url("../images/project3-javascript.png");
+  background-position: center;
+  background-size: cover;
 }
 
 .project4 {
-  background-image: url("../images/02-portfolio-3.jpg");
+  background-image: url("../images/project4-git.png");
+  background-position: center;
+  background-size: cover;
 }
 
 .project5 {
-  background-image: url("../images/02-run-buddy.jpg");
+  background-image: url("../images/project5-other.jpeg");
+  background-position: center;
+  background-size: cover;
 }
 
 @media screen and (max-width: 1000px) {
