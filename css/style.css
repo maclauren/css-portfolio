@@ -41,6 +41,10 @@ header {
   box-shadow: 0 5px 35px rgba(146, 204, 206, 0.4);
 }
 
+img {
+  content:url("../images/small-profile.jpg");
+}
+
 header h1 {
 color: var(--tertiary);
 background-color: var(--secondary);
@@ -99,7 +103,7 @@ main {
 }
 
 .hero-banner {
-  flex: 0 0 90%;
+  flex: 0 0 30%;
 }
 
 .hero-banner h2 {

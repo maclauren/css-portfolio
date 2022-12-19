@@ -40,3 +40,6 @@ main
 .project5
 
 5. Customised with my own details and images. Made adjustments to paragraph margin (as text was too close to line) and background image so the image was centered and covered.
+
+6. Added profile picture next to name.
+
