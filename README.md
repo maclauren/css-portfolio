@@ -23,3 +23,15 @@ main
 .page section p
 .flex-container
 .flex-item
+.flex-item:first-child
+.flex-item:hover
+.flex-item div
+.flex-item h3
+.contact address
+.contract address a
+.contact address a:hover
+.project1
+.project2
+.project3
+.project4
+.project5
