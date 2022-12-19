@@ -2,12 +2,12 @@
 A portfolio containing flexbox, media queries, and CSS variables
 Deployed link: 
 
-##Table of Contents:
+## Table of Contents:
 - User Story
 - Acceptance Criteria
 - Method
 
-##User Story
+## User Story
 AS A coding bootcamp student. I WANT an online portfolio. SO THAT I can showcase my completed projects.
 
 ##Acceptance Criteria
@@ -18,7 +18,7 @@ When presented with the your first application then that application's image sho
 When images of the applications are clicked then the user is taken to that deployed application
 When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewport
 
-##Method
+## Method
 
 1. Added 'a href' to navigation for About, Work, Contact Me and Resume
 
